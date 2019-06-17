@@ -3,10 +3,8 @@
 ESP32 Geiger Counter with SD support
 -----------------------------
 Designed to be lower power avoiding continuous WiFI operation. WiFI only enabled when transmitting results online. 
-
-Geiger counter readings stored to SD card and then pulled at
-the pretertermined interval. Readings are sent to ThingsLabs for analysis. 
-Alerts can be configured If the level exceeds the configured threshold. Sent via SMS using the inbuilt IFTTT API call
+Geiger counter readings stored to SD card and then pulled at a pretertermined interval to be trasmitted to ThingsLabs for analysis. 
+Alerts can be configured if radiation level exceeds a configured threshold. Sent via SMS using the inbuilt IFTTT API call.
 
 Hardware details
 ----------------------------
