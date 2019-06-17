@@ -1,5 +1,7 @@
 # radmon-v2
 
+![alt text](https://images-na.ssl-images-amazon.com/images/I/61fP35TuMKL._SL1000_.jpg)
+
 ESP32 Geiger Counter with SD support
 -----------------------------
 Designed to be lower power avoiding continuous WiFI operation. WiFI only enabled when transmitting results online. 
