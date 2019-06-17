@@ -1,8 +1,6 @@
 # radmon-v2
 
-![alt text](https://images-na.ssl-images-amazon.com/images/I/613Q6IxkivL._SX425_.jpg)
 ![alt text](https://images-na.ssl-images-amazon.com/images/I/61fP35TuMKL._SL1000_.jpg)
-![alt text](https://diyprojects.io/wp-content/uploads/2018/02/new-arrival-mciro-sd-tf-card-memory-shield-module-spi-micro-sd-storage-1.jpg)
 
 ESP32 Geiger Counter with SD support
 -----------------------------
